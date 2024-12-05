@@ -4,7 +4,7 @@
   "description": "A basic Hello World backend using Express.js",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node server.js",
     "test": "jest"
   },
   "author": "Your Name",
